@@ -1,3 +1,13 @@
+codecov:
+    bot: codecovbot
+
+coverage:
+    status:
+        project:
+            default: off
+        patch:
+            default: off
+
 comment:
   layout: "reach, diff, flags, files"
   behavior: default
